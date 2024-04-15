@@ -1,0 +1,3 @@
+VIN                Yr   Make/model           Color            Mileage
+---------------------------------------------------------------------
+00000000654SG6SDG  2020 Toyota Corvette      Blue           200 miles
